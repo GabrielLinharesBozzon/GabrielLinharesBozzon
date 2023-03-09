@@ -3,9 +3,9 @@
 ###Estou atualmente cursando Pós-gradução na universidade União das Américas Descomplica
 
 ##Tenho conhecimento nas liguagens de programção 
-####Java(Básico -CRUD) -Alura 
-####Python(Básico -CRUD)-Alura
-####SQL (Básico)-Alura
-####JavaScript (Básico)-Alura 
+##Java(Básico -CRUD) -Alura 
+##Python(Básico -CRUD)-Alura
+##SQL (Básico)-Alura
+##JavaScript (Básico)-Alura 
 
 
