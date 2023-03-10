@@ -9,7 +9,7 @@
 ## JavaScript (Básico)-Alura 
 
 
-=Hoje estou procurando vaga para Back-end
+-Hoje estou procurando vaga para Back-end
 
 -Estudando Node.js
 <div style="display: inline_block"><br>
