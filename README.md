@@ -1,4 +1,4 @@
-# Olá, meu nome é Gabriel e sou um programador iniciante.
+# Olá, meu nome é Gabriel e sou um programador.
 
 ## Sobre mim
 - Tenho 26 anos de idade e sou formado em Ciências da Computação pela Universidade Nove de Julho (UNINOVE).
@@ -13,3 +13,8 @@
 ## Interesses e objetivos:
 - Estou buscando oportunidades na área de Back-end.
 - No momento, estou estudando <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js.
+## Estatísticas do GitHub
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLinharesBozzon)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tempo Trabalhado no GitHub
+[![Gabriel's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielLinharesBozzon)](https://github.com/anuraghazra/github-readme-stats)
