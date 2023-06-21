@@ -5,7 +5,7 @@
 - Atualmente, estou cursando pós-graduação na Universidade União das Américas Descomplica.
 
 ## Conhecimentos em linguagens de programação:
-- Java (Básico - CRUD) - Alura
+- <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java (Básico - CRUD) - Alura
 - Python (Básico - CRUD) - Alura
 - SQL (Básico) - Alura
 - JavaScript (Básico) - Alura
