@@ -16,5 +16,3 @@
 ## Estatísticas do GitHub
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLinharesBozzon)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tempo Trabalhado no GitHub
-[![Gabriel's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielLinharesBozzon)](https://github.com/anuraghazra/github-readme-stats)
