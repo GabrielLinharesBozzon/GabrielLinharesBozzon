@@ -12,4 +12,4 @@
 
 ## Interesses e objetivos:
 - Estou buscando oportunidades na área de Back-end.
-- No momento, estou estudando Node.js.
+- No momento, estou estudando <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js.
