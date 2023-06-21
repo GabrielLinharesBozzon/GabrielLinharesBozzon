@@ -6,18 +6,10 @@
 
 ## Conhecimentos em linguagens de programação:
 - <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java (Básico - CRUD) - Alura
-- Python (Básico - CRUD) - Alura
-- SQL (Básico) - Alura
-- JavaScript (Básico) - Alura
+- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python (Básico - CRUD) - Alura
+- <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> SQL (Básico) - Alura
+- <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript (Básico) - Alura
 
 ## Interesses e objetivos:
 - Estou buscando oportunidades na área de Back-end.
 - No momento, estou estudando Node.js.
-
-## Tecnologias que estou aprendendo atualmente:
-<div style="display: inline_block">
-  <br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
