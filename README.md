@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 🎓 Formado em Ciências da Computação pela Universidade Nove de Julho (UNINOVE).
-- 📚 Atualmente cursando pós-graduação na Universidade União das Américas Descomplica.
+- 📚 Atualmente cursando pós-graduação na Universidade União das Américas Descomplica em Análise e Desenvolvimento de Programas.
 
 ## Conhecimentos em linguagens de programação:
 - <img align="center" alt="Java" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java (Básico - CRUD) - Alura
