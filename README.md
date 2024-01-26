@@ -13,11 +13,9 @@
 ## Conhecimentos em Tecnologias:
 - <img align="center" alt="Docker" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> Docker (Intermediário) - Experiência em criação, gerenciamento e deploy de containers.
 
-## Conhecimentos em Linux:
-- 🐧 **Sistema Operacional:** Ubuntu, CentOS.
-- 🖥️ **Ambiente de Desenvolvimento:** Familiarizado com o uso de terminal e comandos básicos.
-- 🛠️ **Administração de Sistemas:** Configuração e manutenção básica de servidores Linux.
-- 🌐 **Redes:** Compreensão básica de configuração de rede e firewall.
+## Conhecimentos em Sistemas Operacionais:
+- 🐧 **Linux:**
+  - <img align="center" alt="Debian" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"> Debian e Derivados (Ubuntu, Linux Mint, etc.)
 
 ### Projetos Relacionados ao Linux:
 - 🐋 Utilização do Docker para criação e gerenciamento de containers em ambientes Linux.
