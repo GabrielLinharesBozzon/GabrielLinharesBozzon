@@ -26,7 +26,7 @@
 - 📜 Certificação em administração básica de servidores Linux.
 
 ## Repositórios Relacionados ao Linux:
-- [Repositório de Scripts para Automação em Linux](link-para-o-repositorio)
+- [Repositório de Scripts para Automação em Linux](https://github.com/GabrielLinharesBozzon/Scripts-linux)
 - [Configuração de Servidor Web no Linux](link-para-o-repositorio)
 
 ## Outras Habilidades:
