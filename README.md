@@ -1,4 +1,4 @@
-# Olá, meu nome é Gabriel e sou um entusiasta da programação!
+# Olá, meu nome é Gabriel e sou um desenvolvedor da programação!
 
 ## Sobre mim
 - 🎓 Formado em Ciências da Computação pela Universidade Nove de Julho (UNINOVE).
